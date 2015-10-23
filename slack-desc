@@ -1,0 +1,17 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.  Line
+# up the first '|' above the ':' following the base package name, and the '|'
+# on the right side marks the last column you can put a character in.  You must
+# make exactly 11 lines for the formatting to be correct.  It's also
+# customary to leave one space after the ':'.
+
+                 |-----handy-ruler------------------------------------------------------|
+xf86-input-wacom: Xf86-input-wacom
+xf86-input-wacom: The xf86-input-wacom driver provides desktop support for Wacom 
+xf86-input-wacom: tablets, touchscreens, and similar hardware. It is responsible for 
+xf86-input-wacom: relaying events from the kernel to the X server where applications 
+xf86-input-wacom: like GIMP, Krita, and Xournal can make use of them. Additionally, it 
+xf86-input-wacom: provides services like palm rejection that improve the experience of 
+xf86-input-wacom: using a tablet. 
+xf86-input-wacom:
+xf86-input-wacom: http://linuxwacom.sourceforge.net
